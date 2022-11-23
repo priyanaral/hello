@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+// my first gitup project
 public class MainActivity extends AppCompatActivity {
 
     @Override
